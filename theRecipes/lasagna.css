@@ -1,0 +1,12 @@
+body {
+    display: block;
+    text-align: center;
+}
+
+div > ul , ol , h3 , h2, p{
+    display: inline;
+}
+
+div.description {
+    margin: 20px;
+}
