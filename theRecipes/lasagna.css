@@ -42,12 +42,12 @@ img {
 div.description {
     margin: 20px;
     width: 40%;
-    border: 2px solid rgb(182, 10, 10);
+    border: 2px solid  rgb(0, 128, 75);
     border-radius: 5px;
 }
 
 div.description > div {
-    border: 2px solid rgb(182, 10, 10);
+    border: 2px solid rgb(0, 128, 75);
 }
 
 div#food {
